@@ -1,15 +1,23 @@
 Tutorial NodeJS, Express, Atom, GitHub, Cloud9 y Markdown
 ======================================================
 
-## Instalación de NodeJS en Windows
+## Instalación de NodeJS en Ubuntu 14.04
 
-Es un intérprete **Javascript** del lado del servidor que cambia la noción de cómo debería trabajar un servidor. Su meta es permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sólo una máquina física.
+Es un intérprete **Javascript** del lado del servidor que cambia la noción de cómo debería trabajar un servidor. Su meta es permitir a un programador construir aplicaciones altamente escalables y escribir código que maneje decenas de miles de conexiones simultáneas en una sola máquina física.
 
-Para empezar a utilizarlo descargar el paquete de instalación para la plataforma windows y seguir los pasos del asistente de instalación de **NodeJS**.
+Para empezar a utilizarlo descargar el paquete de instalación para la plataforma Linux y a continuación ejecutar los siguientes comandos en una consola Linux:
+
+Después de descomprimir el archivo que se descarga,
 
 ![](images/node.png)
 
-Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente, aparecerá el siguiente mensaje que indica que se ha instalado.
+A continuación escribir al final del archivo ~/.bashrc la línea seleccionada
+
+![](images/node2.png)
+
+Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente.
+
+![](images/node3.png)
 
 Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente comando:
 
@@ -17,11 +25,11 @@ Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente 
 
 > `npm install express --save`
 
-![](images/node2.png)
+![](images/express.png)
 
 ## Instalación del editor de texto Atom
 
-Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y a continuación ejecutamos el asistente de instalación.
+Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y lo abrimos con el Centro de software de Ubuntu. Una vez instalado se verá así:
 
 ![](images/atom1.png)
 
@@ -30,29 +38,13 @@ Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom**
 **Comando**
 
 > * Markdown preview `ctrl+shift+m`
-> * Markdown export to HTML `Save As HTML`
+> * Markdown export to HTML `boton derecho sobre el preview > Save As HTML`
 
-
-
-## Instalación de GitHub Desktop
-
-GitHub es una plataforma para alojar proyectos utilizando el sistema de control de versiones **Git**. Para instalarlo accedemos a la página oficial de **GitHub** y descargamos el instalador que ejecutaremos posteriormente para iniciar el asistente de instalación.
-
-![](images/git.png)
-
-Una vez instalado configuramos nuestra cuenta de **GitHub** en la aplicación para poder sincronizar nuestro repositorio tanto local como remoto, en caso de no tener cuenta crearemos una en la página de **GitHub**.
 
 ## Cloud 9
 
-Es un IDE de desarrollo online, para su uso será necesario crear una cuenta en la página oficial o acceder con las credenciales de GitHub si ya se dispone de una cuenta. Una vez registrados podremos crear proyectos de varias tecnologías como puede ser NodeJS, HTML5, C++, Ruby On Rails, etc.
+Es un IDE de desarrollo online, para su uso será necesario crear una cuenta en la página oficial o acceder con las credenciales de GitHub si ya se dispone de una cuenta. Una vez registrados podremos crear proyectos de varias tecnologías como puede ser NodeJS, HTML5, C++, Ruby On Rails, etc. Como ya tengo cuenta me saltaré este paso.
 
-![](images/cloud.png)
-
-Si disponemos de algún proyecto en un repositorio de GitHub podremos asociarlo a **Cloud9** para trabajar en él tan solo creando un “`nuevo workspace`” y añadiendo la url *git* del correspondiente repositorio.
-
-![](images/cloud2.png)
-
-Además **Cloud9** permite el trabajo en equipo en el IDE añadiendo miembros a tu workspace.
 
 ## Markdown
 
