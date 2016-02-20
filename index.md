@@ -11,10 +11,6 @@ Después de descomprimir el archivo que se descarga,
 
 ![](./images/node.png)
 
-A continuación escribir al final del archivo ~/.bashrc la línea seleccionada
-
-![](./images/node2.png)
-
 Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente.
 
 ![](./images/node3.png)
