@@ -9,7 +9,7 @@ Para empezar a utilizarlo descargar el paquete de instalación para la plataform
 
 Después de descomprimir el archivo que se descarga,
 
-![](images/node.png)
+![](./images/node.png)
 
 A continuación escribir al final del archivo ~/.bashrc la línea seleccionada
 
