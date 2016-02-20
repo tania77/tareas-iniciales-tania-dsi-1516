@@ -9,11 +9,11 @@ Para empezar a utilizarlo descargar el paquete de instalación para la plataform
 
 Después de descomprimir el archivo que se descarga,
 
-![](./images/node.png)
+![](images/node.png)
 
 Abrimos la consola de **NodeJS** y comprobamos que se ha instalado correctamente.
 
-![](./images/node3.png)
+![](images/node3.png)
 
 Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente comando:
 
@@ -21,13 +21,13 @@ Instalamos el framework **Express** con la consola de **NodeJS** y el siguiente 
 
 > `npm install express --save`
 
-![](./images/express.png)
+![](images/express.png)
 
 ## Instalación del editor de texto Atom
 
 Usaremos **Atom** como editor de texto para el desarrollo de nuestros proyectos, para ello descargamos el instalador en la página oficial de atom, y lo abrimos con el Centro de software de Ubuntu. Una vez instalado se verá así:
 
-![](./images/atom1.png)
+![](images/atom1.png)
 
 Dado que vamos a utilizar el formato **Markdown** es bueno saber que en **Atom** podremos obtener una preview del contenido de nuestro fichero Markdown ya que incorpora el formato **GitHub Markdown** con el comando:
 
@@ -86,4 +86,4 @@ Listas
 * [GitHub Pages](https://pages.github.com/)
 * [Cloud 9 IDE](https://c9.io)
 * [Markdown](http://daringfireball.net/projects/markdown/)
-* [Resultado del Markdown HTML](http://alu0100536652.github.io/Tutorial-STW/)
+* [Resultado del Markdown HTML](http://tania77.github.io/tareas-iniciales-tania-dsi-1516/)
