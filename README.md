@@ -1,6 +1,6 @@
 ## Tarea Inicial
 
-Configuración de las herramientas y tecnologías a utilizar en la asignatura Sistemas y Tecnologías Webs.
+Configuración de las herramientas y tecnologías a utilizar en la asignatura Desarrollo de Sistemas Informáticos.
 
 * NodeJS
 * Express
@@ -9,6 +9,6 @@ Configuración de las herramientas y tecnologías a utilizar en la asignatura Si
 * Cloud9
 * Markdown
 
-[Página personal de prácticas](https://github.com/tania77)
+[Página personal de prácticas](http://tania77.github.io/)
 
-[Página de la práctica inicial](https://github.com/tania77/tareas-iniciales-tania-dsi-1516)
+[Página de la práctica inicial](http://tania77.github.io/tareas-iniciales-tania-dsi-1516/)
